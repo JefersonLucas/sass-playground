@@ -1,0 +1,21 @@
+{
+  "name": "sass-playground",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "gulp-sass"
+  ],
+  "author": "Jeferson Lucas",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
